@@ -1,4 +1,4 @@
-## Playing-With-Transformers--NLP-Workshop
+## NLP-Workshop: Playing-With-Transformers
 
 <img src="https://camo.githubusercontent.com/b9d050a07e52c7930206d37d72a229ab484cae1ace09bf0fe1c6cf9c7f5d4bc0/68747470733a2f2f68756767696e67666163652e636f2f66726f6e742f6173736574732f68756767696e67666163655f6c6f676f2e737667">
 
